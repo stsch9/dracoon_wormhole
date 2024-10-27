@@ -77,7 +77,7 @@ cmd_usage(){
         Generate Download curl command for file SOURCE
       dracoon_wormhole send -D,--domain DRACOON DOMAIN -s,--src SOURCE
         Send a Download Url via Magic Wormhole
-      dracoon_wormhole receive
+      dracoon_wormhole receive CODE
         Receive Download Url via Magic Wormhole and use Download Url
       dracoon_wormhole help
         Print this help.
