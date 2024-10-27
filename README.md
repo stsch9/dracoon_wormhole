@@ -13,3 +13,5 @@ Usage:
       dracoon_wormhole help
         Print this help.
 ```
+## Requirements
+- [magic wormhole](https://github.com/magic-wormhole/magic-wormhole)
